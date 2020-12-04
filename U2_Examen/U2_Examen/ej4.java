@@ -1,4 +1,4 @@
-package com.company;
+package U2_Examen;
 
 import java.util.Scanner;
 
