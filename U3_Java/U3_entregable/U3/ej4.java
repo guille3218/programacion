@@ -1,4 +1,4 @@
-package com.company;
+package U3;
 
 import java.util.Arrays;
 
